@@ -34,7 +34,7 @@ export default function Navbar({
           <div className="brand-icon">
             <Zap size={22} fill="currentColor" />
           </div>
-          <span>NEXUS<span className="gradient-text">.STORE</span></span>
+          <span>RAJ<span className="gradient-text">.STORE</span></span>
         </a>
 
         {/* Live Search Input */}

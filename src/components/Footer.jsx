@@ -22,7 +22,7 @@ export default function Footer() {
             <div className="brand-icon">
               <Zap size={22} fill="currentColor" />
             </div>
-            <span>NEXUS<span className="gradient-text">.STORE</span></span>
+            <span>RAJ<span className="gradient-text">.STORE</span></span>
           </div>
           <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', maxWidth: '320px', marginBottom: '20px' }}>
             The premiere marketplace for futuristic hardware, premium acoustics, and high-performance lifestyle tech.
@@ -73,7 +73,7 @@ export default function Footer() {
 
         {/* Newsletter Subscription */}
         <div className="footer-col">
-          <h4>Join NEXUS VIP</h4>
+          <h4>Join RAJ VIP</h4>
           <p style={{ color: 'var(--text-secondary)', fontSize: '0.88rem', marginBottom: '12px' }}>
             Subscribe to get secret drop notifications and 15% off your first purchase.
           </p>
@@ -102,7 +102,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <div>
-          © {new Date().getFullYear()} NEXUS STORE Inc. All rights reserved. Built with React & Vite.
+          © {new Date().getFullYear()} RAJ STORE Inc. All rights reserved. Built with React & Vite.
         </div>
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
           <span>Privacy Policy</span>
